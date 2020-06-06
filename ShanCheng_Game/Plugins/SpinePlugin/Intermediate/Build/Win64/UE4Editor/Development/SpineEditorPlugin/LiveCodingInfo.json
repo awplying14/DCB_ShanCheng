@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpineEditorPlugin.cpp.obj": [
+			"SpineAtlasImportFactory.cpp.obj",
+			"SpineEditorPlugin.cpp.obj",
+			"SpineSkeletonImportFactory.cpp.obj"
+		],
+		"Module.SpineEditorPlugin.gen.cpp.obj": [
+			"SpineAtlasImportFactory.gen.cpp.obj",
+			"SpineEditorPlugin.init.gen.cpp.obj",
+			"SpineSkeletonImportFactory.gen.cpp.obj"
+		]
+	}
+}

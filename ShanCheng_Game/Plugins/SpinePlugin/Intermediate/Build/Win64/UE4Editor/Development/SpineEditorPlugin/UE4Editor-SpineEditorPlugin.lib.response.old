@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpineEditorPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\workspace\Shancheng\ShanCheng_Game\Intermediate\Build\Win64\ShanCheng_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\workspace\Shancheng\ShanCheng_Game\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp.obj"
+"D:\workspace\Shancheng\ShanCheng_Game\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.gen.cpp.obj"
+"D:\workspace\Shancheng\ShanCheng_Game\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Default.rc2.res"
+/OUT:"D:\workspace\Shancheng\ShanCheng_Game\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\UE4Editor-SpineEditorPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_SpineEditorPlugin
